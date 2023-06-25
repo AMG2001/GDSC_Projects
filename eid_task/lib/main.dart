@@ -22,10 +22,9 @@ class HomePage extends StatelessWidget {
   // link to generate image link : https://postimages.org/
 
   // take Direct link from website
-  String your_image_url =
-      'https://i.postimg.cc/0yKKphby/Screenshot-from-2023-06-24-22-14-07.png';
+  String your_image_url = '';
   // put your name
-  String your_name = 'Amgad ali';
+  String your_name = '';
 
   final player = AudioPlayer();
 
